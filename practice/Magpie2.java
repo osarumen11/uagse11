@@ -37,11 +37,11 @@ public class Magpie2
 		}
 		else if(statement.trim().length()==0 )
 		{
-			response="say something please";
+			response="ssy something please";
 		}
 		else if (statement.indexOf("dog")>=0||statement.indexOf("cat")>=0)
 		{
-			response="tell me more about your pets";
+			response="you sure like animals, dont you?";
 		}
 		else if (statement.indexOf("Mr.Chen")>=0)
 		{
